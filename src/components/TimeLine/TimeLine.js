@@ -62,15 +62,9 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle>Sobre mí</SectionTitle>
       <SectionText>
-        Mi nombre es Óscar Rodríguez, soy desarrollador Front-End, tengo 3 años
-        de experiencia, mis habilidades y conocimientos incluyen HTML, CSS,
-        JavaScript, así como Typescript, React, NextJS, SASS (Preprocesador
-        CSS). <br /> Para la parte del BackEnd uso Firebase, la cual es una
-        plataforma de desarrollo hecha por Google, puede servir para almacenar y
-        administrar el contenido de una web, autentificación de usuarios, etc.{" "}
-        <br />
-        En terminos simples, si necesitas un sitio web atractivo y veloz, hecho
-        a medida, puedes llamarme.
+       Desarrollador Front-End, apasionado por el mundo de la programación,
+        empático, honesto, bueno trabajando en equipo, siempre interesado en
+        aprender cosas nuevas.
       </SectionText>
     </Section>
   );
